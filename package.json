@@ -1,0 +1,20 @@
+{
+  "name": "mypacktemp1",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "create_files.js",
+  "keywords": [
+    "nothing"
+  ],
+  "author": "karan shinde",
+  "license": "ISC",
+  "dependencies": {
+    "npm-demo-pkg": "^2.0.0"
+  },
+  "scripts": {
+    "start": "node create_files.js"
+  },
+  "devDependencies": {
+    
+  }
+}
